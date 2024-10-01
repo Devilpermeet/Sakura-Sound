@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "mongoURI": "YOUR_MONGODB_CONNECTION_STRING",
+  "prefix": "!"
+}
