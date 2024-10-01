@@ -22,5 +22,5 @@ A Discord music bot that uses MongoDB to manage data such as playlists, command 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/discord-music-bot.git
+   git clone https://github.com/Devilpermeet/Sakura-Sound.git
    cd discord-music-bot
