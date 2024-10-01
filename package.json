@@ -1,0 +1,17 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "A Discord music bot using MongoDB.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "distube": "^4.0.0",
+    "mongoose": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
