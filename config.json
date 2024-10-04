@@ -1,5 +1,5 @@
 {
-  "token": "YOUR_BOT_TOKEN",
-  "mongoURI": "YOUR_MONGODB_CONNECTION_STRING",
+  "token": "MTI5MDU4MDkyMTA1MzA4NTczNw.GnLzkQ.OHUOWs3Dga0fTMYeic4gAXDEr3JBwToDv3KMb8",
+  "mongoURI": "mongodb+srv://sestro:sestro@cluster0.zldd64l.mongodb.net/?retryWrites=true&w=majority",
   "prefix": "!"
 }
